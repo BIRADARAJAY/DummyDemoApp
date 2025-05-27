@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New DummyTaskTable</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>DummyTaskTable</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">28309668c811221055906c7518aa2dc3</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>Ajay\SVC-Biradar</sys_created_by>
+        <sys_created_on>2025-05-26 08:08:07</sys_created_on>
+        <sys_id>d5b0f8f497b5a610868cfefce053afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DummyTaskTable</sys_name>
+        <sys_package display_value="DummyAppPushToGIT" source="x_768274_dummyappp">18dfa0fc9775a610868cfefce053af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DummyAppPushToGIT">18dfa0fc9775a610868cfefce053af87</sys_scope>
+        <sys_update_name>sys_wizard_answer_d5b0f8f497b5a610868cfefce053afb3</sys_update_name>
+        <sys_updated_by>Ajay\SVC-Biradar</sys_updated_by>
+        <sys_updated_on>2025-05-26 08:08:07</sys_updated_on>
+        <table/>
+        <target_url>x_768274_dummyappp_dummytasktable.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

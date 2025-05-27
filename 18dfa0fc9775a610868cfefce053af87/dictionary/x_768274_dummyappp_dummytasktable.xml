@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="51b0f8f497b5a610868cfefce053af5d" extends="task" label="DummyTaskTable" max_length="40" name="x_768274_dummyappp_dummytasktable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DummyTaskField" max_length="101" name="dummytaskfield" type="string"/>
+    </element>
+</database>
