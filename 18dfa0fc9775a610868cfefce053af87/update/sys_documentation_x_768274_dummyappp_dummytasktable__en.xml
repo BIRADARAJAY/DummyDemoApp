@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="DummyTaskTable" language="en" table="x_768274_dummyappp_dummytasktable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DummyTaskTable</label>
+            <language>en</language>
+            <name>x_768274_dummyappp_dummytasktable</name>
+            <plural>DummyTaskTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Ajay\SVC-Biradar</sys_created_by>
+            <sys_created_on>2025-05-26 08:08:07</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DummyTaskTable</sys_name>
+            <sys_package display_value="DummyAppPushToGIT" source="x_768274_dummyappp">18dfa0fc9775a610868cfefce053af87</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DummyAppPushToGIT">18dfa0fc9775a610868cfefce053af87</sys_scope>
+            <sys_update_name>sys_documentation_x_768274_dummyappp_dummytasktable__en</sys_update_name>
+            <sys_updated_by>Ajay\SVC-Biradar</sys_updated_by>
+            <sys_updated_on>2025-05-26 08:08:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
