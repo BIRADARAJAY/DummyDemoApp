@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>df479399973daa10868cfefce053afd9</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sn_cmdb_int_util_service_graph_connection_test_script"&gt;
+    &lt;sn_cmdb_int_util_service_graph_connection_test_script action="INSERT_OR_UPDATE"&gt;
+        &lt;script&gt;&lt;![CDATA[//Test]]&gt;&lt;/script&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2025-05-28 09:33:05&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;df479399973daa10868cfefce053afd9&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_scope display_value="DummyAppPushToGIT"&gt;18dfa0fc9775a610868cfefce053af87&lt;/sys_scope&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2025-05-28 09:33:05&lt;/sys_updated_on&gt;
+    &lt;/sn_cmdb_int_util_service_graph_connection_test_script&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-28 09:33:22</sys_created_on>
+        <sys_id>31675f9d973daa10868cfefce053afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2025-05-28 02:33:05</sys_name>
+        <sys_package display_value="DummyAppPushToGIT" source="x_768274_dummyappp">18dfa0fc9775a610868cfefce053af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DummyAppPushToGIT">18dfa0fc9775a610868cfefce053af87</sys_scope>
+        <sys_update_name>sys_metadata_link_31675f9d973daa10868cfefce053afc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-28 09:33:22</sys_updated_on>
+        <tablename>sn_cmdb_int_util_service_graph_connection_test_script</tablename>
+    </sys_metadata_link>
+</record_update>
